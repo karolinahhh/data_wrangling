@@ -15,7 +15,7 @@ amount of medals awarded during the Olympic Games?
 - Population density
 - Median Age
 - Urban Population
-# Data libraries used in the project
+# Python libraries used in the project
 - numpy
 - pandas
 - pycountry
